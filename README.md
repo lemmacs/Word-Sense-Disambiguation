@@ -16,7 +16,7 @@
    - Run the wsd-embeddings.py file using this command:
        * ` python3 wsd-embeddings.py line-train.txt line-test.txt glove.6B.100d.txt [SVM]or[NN] > my-line-answers.txt` 
    - Print out the new answer text file created with this command:
-       * type my-line-answers.txt
+       * `type my-line-answers.txt`
 
 
 
